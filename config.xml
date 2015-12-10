@@ -7,8 +7,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <gap:plugin name="org.apache.cordova.camera" />
-	
+    <plugin name="org.apache.cordova.camera" source="pgb" spec="n/a" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
